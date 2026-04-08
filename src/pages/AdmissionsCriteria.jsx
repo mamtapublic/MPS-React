@@ -31,7 +31,7 @@ const AdmissionsCriteria = () => {
         </div>
 
         <h3 className="text-2xl font-bold text-purple-700 mb-4">
-          Admission Criteria for OPEN SEATS (2025-26)
+          Admission Criteria for OPEN SEATS (2026-27)
         </h3>
 
         <div className="overflow-x-auto rounded-md">
